@@ -26,7 +26,6 @@ To get started with FritzNetMonitor, follow these steps:
 
    ```bash
    git clone <repository_url>
-   cd fritznetscan
    ```
 
 2. Install the necessary dependencies:
